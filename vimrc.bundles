@@ -1,0 +1,19 @@
+filetype off
+set rtp+=~/.vim/bundle/vundle/
+call vundle#rc()
+
+
+Bundle 'scrooloose/nerdtree'
+Bundle 'vim-airline/vim-airline'
+Bundle 'vim-airline/vim-airline-themes'
+Bundle 'powerline/powerline'
+Bundle 'majutsushi/tagbar'
+Bundle 'kien/ctrlp.vim'
+Bundle 'a.vim'
+Bundle 'Yggdroot/indentLine'
+Bundle 'tpope/vim-fugitive'
+Bundle 'gregsexton/gitv'
+Bundle 'chazy/cscope_maps'
+Bundle 'junegunn/fzf'
+Bundle 'Valloric/YouCompleteMe'
+Bundle 'suan/vim-instant-markdown'
